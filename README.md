@@ -1,2 +1,3 @@
 # Text_Mining_Tech_Talent
-Text mining project for comparing employee reviews of two major leading tech companies.
+
+This project is a case study on HR Analytics for employees working in Google and Amazon. Online employee reviews have been collected from "https://www.glassdoor.com/index.htm". The reviews are anonymous to protect privacy. From this corpus, we will try to answer questions pertaining to better work-life balance, better perceived pay and other interesting insights. Input file contains reviews obtained from Glassdoor and are tagged under headers pros and cons. This Text Mining project is based on  "Bag of words" model where all the words are analysed as a single token and order doesn't matter. The cleaned CSV files are collected from Datacamp platform. Employee review text data is distributed under headers "pros" and "cons" in the input csv files.
